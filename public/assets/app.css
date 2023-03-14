@@ -1,0 +1,39 @@
+/*!**************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[1].use[1]!./assets/styles/app.css ***!
+  \**************************************************************************************************************/
+
+  
+.bg-color {
+  background-color: #FBD2A0;
+}
+.navbar .navbar-nav .nav-link {
+  color: #000000;
+  font-size: 1.1em;
+}
+.navbar .navbar-nav .nav-link:hover{
+  color: #808080;
+}
+.navbar-logo-centered .navbar-nav .nav-link{
+  padding: .5em 1em;
+}
+@media (min-width: 992px) {
+  .navbar-brand {
+      margin-right: auto;
+      margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .navbar-brand {
+      margin-right: auto;
+      margin-left: auto;
+  }
+  .navbar-toggler {
+      order: 1;
+  }
+  .navbar-collapse {
+      order: 2;
+  }
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmNzcyIsIm1hcHBpbmdzIjoiOzs7QUFBQTtJQUNJLHFCQUFxQjtBQUN6QiIsInNvdXJjZXMiOlsid2VicGFjazovLy8uL2Fzc2V0cy9zdHlsZXMvYXBwLmNzcyJdLCJzb3VyY2VzQ29udGVudCI6WyJib2R5IHtcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7XG59XG5cbiAgIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/
